@@ -8,6 +8,7 @@ let candidateName = "";
 let question = "Who was the first American woman in space? ";
 let correctAnswer = "Sally Ride";
 let candidateAnswer = "";
+let useless = "nothing";
 
 
 //TODO: Variables for Part 2
